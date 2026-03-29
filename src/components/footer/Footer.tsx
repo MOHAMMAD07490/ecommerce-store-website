@@ -6,9 +6,9 @@ const Footer = () => {
           {/* Brand - Left side */}
           <div>
             <img 
-              src="/Linea_Jewelry_Inc-2.svg" 
-              alt="Linea Jewelry Inc." 
-              className="mb-4 h-6 w-auto"
+              src="/logo.png" 
+              alt="Junaid Dev" 
+              className="mb-4 h-8 w-auto"
             />
             <p className="text-sm font-light text-black/70 leading-relaxed max-w-md mb-6">
               Minimalist jewelry crafted for the modern individual
@@ -23,8 +23,8 @@ const Footer = () => {
               </div>
               <div>
                 <p className="font-normal text-black mb-1 mt-3">Contact</p>
-                <p>+1 (212) 555-0123</p>
-                <p>hello@lineajewelry.com</p>
+                <p>hello@example.com</p>
+                <a href="https://github.com/MOHAMMAD07490/" target="_blank" rel="noopener noreferrer" className="hover:text-black transition-colors underline">GitHub</a>
               </div>
             </div>
           </div>
