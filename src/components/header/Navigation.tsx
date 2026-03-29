@@ -189,9 +189,9 @@ const Navigation = () => {
         <div className="absolute left-1/2 transform -translate-x-1/2">
           <Link to="/" className="block">
             <img 
-              src="/LINEA-1.svg" 
-              alt="LINEA" 
-              className="h-6 w-auto"
+              src="/logo.png" 
+              alt="Junaid Dev" 
+              className="h-8 w-auto"
             />
           </Link>
         </div>
